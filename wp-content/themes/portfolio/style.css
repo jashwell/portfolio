@@ -1,0 +1,47 @@
+body {
+  background-color: #ffffff;
+}
+h1 {
+  color: #444c51;
+  margin-left: 50px;
+  font-family: Optima, sans-serif;
+  font-weight: 250;
+  font-size: 2.4em;
+}
+
+h2 {
+  color: #444c51;
+  margin-left: 50px;
+  font-family: Optima, sans-serif;
+  font-size: 1.8em;
+  font-weight: 100
+}
+
+p {
+  color: #000000;
+  margin-left: 50px;
+  margin-right: 100px;
+  font-weight: lighter;
+  font-family: Gill Sans, sans-serif;
+  font-size: 1.3em;
+  text-align: justify;
+}
+
+.header {
+  background: #beff47;
+  height: 100px;
+  width: 100%;
+}
+
+.logo {
+  width: 25%;
+  height: 100%;
+  float: left;
+}
+
+.main-nav {
+  float: left;
+  width: 75%;
+  height: 100%;
+  overflow: hidden;
+}
